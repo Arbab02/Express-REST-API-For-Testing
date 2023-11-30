@@ -108,4 +108,4 @@ app.listen(port, () => {
   console.log(`Server is running on port ${port}`);
 });
 
-mongodb+srv://arbab02:<password>@cluster0.m3fklkq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+/*mongodb+srv://arbab02:<password>@cluster0.m3fklkq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority*/
